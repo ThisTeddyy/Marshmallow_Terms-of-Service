@@ -28,4 +28,4 @@ In addition to Marshmallow's Terms of Service, you must also comply with discord
 
 # Contact our Agents
 
-You can reach out to our Support Agents via our [Support Server](https://dsc.gg/marshmallowsupport) on Discord, if you need any further assistance or the Support Agents cannot help you, you can privately reach out to any developer which can also be found on our Support Server on Discord.
+You can reach out to our Support Agents via our [Support Server](https://dsc.gg/marshmallowsupport) on Discord, if you need any further assistance or the Support Agents cannot help you, you can privately reach out to any developer which can also be found on our [Support Server](https://dsc.gg/marshmallowsupport) on Discord.
