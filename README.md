@@ -1,7 +1,7 @@
 # Agreement to Terms
 
 By adding and using the Bot and systems, you automatically agree to our Terms of Service and agree to receive a penalty for breach of these Terms of Service.
-In addition to Marshmallow's Terms of Service, you must also comply with discord's Terms of Service.
+In addition to Wavey's Terms of Service, you must also comply with discord's Terms of Service.
 
 # Prohibited Activities
 
@@ -28,4 +28,4 @@ In addition to Marshmallow's Terms of Service, you must also comply with discord
 
 # Contact our Agents
 
-You can reach out to our Support Agents via our [Support Server](https://dsc.gg/marshmallowsupport) on Discord, if you need any further assistance or the Support Agents cannot help you, you can privately reach out to any developer which can also be found on our [Support Server](https://dsc.gg/marshmallowsupport) on Discord.
+You can reach out to our Support Agents via our [Support Server]([https://dsc.gg/marshmallowsupport](https://discord.gg/fAXXbb3Jtj)) on Discord, if you need any further assistance or the Support Agents cannot help you, you can privately reach out to any developer which can also be found on our [Support Server]([https://dsc.gg/marshmallowsupport](https://discord.gg/fAXXbb3Jtj)) on Discord.
